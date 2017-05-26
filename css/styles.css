@@ -1,6 +1,6 @@
 .profile-photo {
   display:block;
-  margin: 0 2% auto 2%;
+  margin: 0 0% auto 2%;
   float: right;
   width: 35%;
   height: auto;
@@ -19,7 +19,7 @@
   margin-left: 2%;
   margin-right: 2%;
   padding: 2% 2% 0% 2%;
-  width: 59%;
+  width: 61%;
 }
 
 .about2 {
@@ -49,6 +49,7 @@
 
 .city-bg {
   background: url("http://www.wildtextures.com/wp-content/uploads/wildtextures_white-brick-city-wall.jpg");
+  background-attachment: fixed;
  }
 
 .transbox {
