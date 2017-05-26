@@ -3,7 +3,7 @@
   margin: 0 auto auto 25px;
   float: right;
   width: 35%;
-  border
+  height: auto;
 }
 
 .well .img-rounded {
@@ -12,4 +12,9 @@
 
 .code-lang {
   font-family: 'Barrio', cursive;
+}
+
+.about {
+  margin-left: 2%;
+  margin-right: 2%;
 }
