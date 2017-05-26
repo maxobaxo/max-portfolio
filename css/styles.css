@@ -1,3 +1,7 @@
+h1 {
+  font-family: 'Barrio', cursive;
+}
+
 .profile-photo {
   display:block;
   margin: 0 0% auto 2%;
@@ -51,7 +55,3 @@
   background: url("http://www.wildtextures.com/wp-content/uploads/wildtextures_white-brick-city-wall.jpg");
   background-attachment: fixed;
  }
-
-.transbox {
-
-}
