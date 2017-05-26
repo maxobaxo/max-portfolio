@@ -2,6 +2,11 @@ h1 {
   font-family: 'Barrio', cursive;
 }
 
+.city-bg {
+  background: url("http://www.wildtextures.com/wp-content/uploads/wildtextures_white-brick-city-wall.jpg");
+  background-attachment: fixed;
+ }
+
 .profile-photo {
   display:block;
   margin: 0 0% auto 2%;
@@ -14,16 +19,16 @@ h1 {
   width: 100%;
 }
 
-.code-lang {
-  font-family: 'Barrio', cursive;
-  text-align: center;
-}
-
 #about {
   margin-left: 2%;
   margin-right: 2%;
   padding: 2% 2% 0% 2%;
   width: 61%;
+}
+
+.code-lang {
+  font-family: 'Barrio', cursive;
+  text-align: center;
 }
 
 .about2 {
@@ -44,14 +49,6 @@ h1 {
   margin-right: 2%;
 }
 
-.center {
+#center {
   text-align: center;
 }
-
-.background {
-}
-
-.city-bg {
-  background: url("http://www.wildtextures.com/wp-content/uploads/wildtextures_white-brick-city-wall.jpg");
-  background-attachment: fixed;
- }
