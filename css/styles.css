@@ -1,6 +1,6 @@
 .profile-photo {
   display:block;
-  margin: 0 auto auto 25px;
+  margin: 0 2% auto 2%;
   float: right;
   width: 35%;
   height: auto;
@@ -15,9 +15,20 @@
   text-align: center;
 }
 
-.about {
+#about {
   margin-left: 2%;
   margin-right: 2%;
+  padding: 2% 2% 0% 2%;
+  width: 59%;
+}
+
+.about2 {
+  margin-left: 2%;
+  margin-right: 2%;
+  margin-bottom: 2%;
+  padding: 1% 2% 2% 2%;
+  border-radius: 6px;
+  background-color: white;
 }
 
 .row h3 {
@@ -33,6 +44,13 @@
   text-align: center;
 }
 
-#contact-margin {
-  margin-top: 15px;
+.background {
+}
+
+.city-bg {
+  background: url("http://www.wildtextures.com/wp-content/uploads/wildtextures_white-brick-city-wall.jpg");
+ }
+
+.transbox {
+
 }
