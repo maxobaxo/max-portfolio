@@ -10,9 +10,9 @@ This webpage will serve as the web programming portfolio for Max Scher. While th
 Simply open index.html within the main repository folder to view the code. To view the page itself, open the index.html file in a browser, preferably Google Chrome.
 
 ## Technologies Used ##
-Git
-HTML
-CSS
+Git,
+HTML,
+CSS,
 Bootstrap
 
 ## Legal ##
