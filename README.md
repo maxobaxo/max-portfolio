@@ -1,7 +1,7 @@
 # Max Scher Portfolio Webpage #
 #### Epicodus exercise in Git, HTML, and CSS, 05.26.2017 ####
 
-By Max Scher
+### By Max Scher ###
 
 ## Description ##
 This webpage will serve as the web programming portfolio for Max Scher. While this webpage was created as a code review assignment for Epicodus, it will also make available information about Max Scher and his programming skills and experience. The webpage is an exercise in Git, HTML, and CSS.
