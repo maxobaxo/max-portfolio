@@ -12,6 +12,7 @@
 
 .code-lang {
   font-family: 'Barrio', cursive;
+  text-align: center;
 }
 
 .about {
@@ -30,4 +31,8 @@
 
 .center {
   text-align: center;
+}
+
+#contact-margin {
+  margin-top: 15px;
 }
